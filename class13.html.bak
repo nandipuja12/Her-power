@@ -1,0 +1,26 @@
+<style> 
+	.puja{
+	list-style:ol; 
+	color:blue
+	}
+	.col{
+	background-colour:cyan;
+	}
+</style>
+
+
+
+<ol class="puja col">
+	<li>apple</li>
+	<li>banana</li>
+	<li>orange</li>
+	<li>mango</li>
+</ol> <br>
+
+<ul id="puja" style="color:pink">
+<li>apple</li>
+	<li>orange</li>
+	<li>mango</li>
+	<li>banana</li>
+	<li>mango</li>
+</ul>

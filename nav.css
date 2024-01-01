@@ -1,0 +1,46 @@
+label b a {
+    color: blanchedalmond;
+}
+
+
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(96, 162, 220);
+    height: 80px;
+    background-image: url(her.jfif);
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+
+.logo{
+    font-size: 50px;
+    margin-left: 30px;
+}
+li{
+    margin-left: 100px;
+    font-size: 30px;
+}
+nav ul{
+    float: right;
+    margin-top: 20px;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 30px;
+}
+nav ul li a{
+    color: black;
+    padding: 8px;
+}
+nav ul li a:hover{
+    padding: 8px;
+    border-radius: 8px;
+    background-color: blueviolet;
+    color: white;
+} 
